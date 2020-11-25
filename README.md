@@ -27,10 +27,10 @@
 
 ## FGM SELFBOT LINE
 
-Official SelfBot Script 2020.
-Work 100% & Safe From Banned.
-Creator: Hansen & UNYPASS
-Special Thanks: HelloWorld & BE-TEAM
+- Official SelfBot Script 2020.
+- Work 100% & Safe From Banned.
+- Creator: Hansen & UNYPASS
+- Special Thanks: HelloWorld & BE-TEAM
 
 ## INSTALL COMMAND FOR TERMUX
 
@@ -39,8 +39,8 @@ pkg update
 pkg upgrade
 pkg install python
 pkg install git
-git clone https://github.com/FgmCorp/fgmselfbot
-cd fgmselfbot
+git clone https://github.com/ferlitopym/sbbot
+cd sbbot
 python -m pip install -r pymodule.txt
 python sbfgm.py
  
@@ -51,8 +51,8 @@ python sbfgm.py
 ```sh
 apt-get update
 apt install python3-pip
-git clone https://github.com/FgmCorp/fgmselfbot
-cd fgmselfbot
+git clone https://github.com/ferlitopym/sbbot
+cd sbbot
 python3 -m pip3 install -r pymodule.txt
 python3 sbfgm.py
  
